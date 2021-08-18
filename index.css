@@ -1,0 +1,17 @@
+.c{
+    background-color: rgb(10, 10, 10) ;
+}
+.ic{
+    background-color: transparent;
+    width: 500px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.bbimg{
+    display: block;
+}
+
+#homeicon{
+    color: white;
+}
